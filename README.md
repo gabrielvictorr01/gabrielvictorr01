@@ -3,7 +3,7 @@
 🌐 **Em transição para Desenvolvedor Full Stack**, atualmente estudando para expandir minhas habilidades em **tecnologias web** e aplicar meu conhecimento de **marketing digital** para criar soluções inovadoras e impactantes.
 
 ### 🛠️ Ferramentas e Tecnologias que estou aprendendo:
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3
 ---
 
 **📫 Como me encontrar**:
