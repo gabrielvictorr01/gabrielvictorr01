@@ -14,5 +14,4 @@
 
 **📫 Como me encontrar**:  
 - LinkedIn: [www.linkedin.com/in/gabrielvictorr](https://www.linkedin.com/in/gabrielvictorr)  
-- GitHub: [github.com/gabrielvictorr01](https://github.com/gabrielvictorr01)  
 - E-mail: gabrielvictorr.dev@gmail.com  
